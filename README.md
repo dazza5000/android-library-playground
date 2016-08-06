@@ -1,4 +1,4 @@
-# android-library-playground
+# github-with-basic-authentication
 
 This is a sample application that accesses the GitHub API. 
 
